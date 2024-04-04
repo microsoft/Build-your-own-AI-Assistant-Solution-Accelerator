@@ -2,7 +2,7 @@
 
 # Build your own AI Assistant Solution Accelerator
 
-MENU: [**USER STORY**](#user-story) \| [**ONE-CLICK DEPLOY**](#one-click-deploy) 
+MENU: [**USER STORY**](#user-story) \| [**ONE-CLICK DEPLOY**](#one-click-deploy) \| [**SUPPORTING DOCUMENTS**](#supporting-documents) 
 
 <h2><img src="Deployment/images/readMe/userStory.png" width="64">
 <br/>
@@ -82,6 +82,21 @@ The next steps are optional for additional learning. Not required to deploy the 
 
 7. Optional - Follow steps in [Promptflow Evaluation guide](./Deployment/PromptFlowEvaluation.md) to set up the evaluation flows.
 
+<h2><img src="/Deployment/images/readMe/supportingDocuments.png" width="64">
+<br/>
+Supporting documents
+</h2>
+
+### How to upload more documents to the search index
+1. Locate your resource group, and select your storage account. ![image](/Deployment/images/readMe/supportingDocuments/image1.png)
+2. From here, click containers on the left menu under Data Storage. ![image](/Deployment/images/readMe/supportingDocuments/image2.png)
+3. Select pubmed ![image](/Deployment/images/readMe/supportingDocuments/image3.png)
+4. Now select Influenza then pdfs ![image](/Deployment/images/readMe/supportingDocuments/image4.png)
+5. From here you can click the upload button and upload your pdfs ![image](/Deployment/images/readMe/supportingDocuments/image5.png)
+
+
+**Troubleshooting**
+-   [Troubleshooting documentation](Troubleshooting.md)
 
 <br/>
 <br/>
